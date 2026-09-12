@@ -7,4 +7,4 @@ Last Updated: September 02, 2026
   • Storage/Gallery: Used to save your booking receipts to your device.
 3. Third-Party Services We use Google Firebase for authentication, database storage, and app analytics. Payments are processed securely by ABA Bank (PayWay). We do not store your credit card information on our servers.
 4. Data Retention and Account Deletion We keep your booking history for your reference. You can request to delete your account and all associated data at any time by contacting us at the email below or using the "Delete Account" button in the app settings.
-5. Contact Us For questions about your privacy, contact: Email: kongvongc@gmail.com Phone: +855717408081
+5. Contact Us For questions about your privacy, contact: Email: chheng64@gmail.com
